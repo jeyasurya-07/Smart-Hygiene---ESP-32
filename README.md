@@ -5,12 +5,12 @@
 #include <LiquidCrystal_I2C.h>
 
 // ====== WiFi Credentials ======
-const char* ssid = "Prabakaran";
-const char* password = "        ";
+const char* ssid = "Vivo";
+const char* password = "xxxxxxxxxxxxx";
 
 // ====== Telegram Bot ======
-const char* BOT_TOKEN = "8402164632:AAFqMrzp2-mZklqBgC4GHuMHoz-iSrrQ4lg";
-String chat_id = "2078130403";
+const char* BOT_TOKEN = "xxxxxxxxxxxxxxxxxxxxx";
+String chat_id = "xxxxxxxxxxxxx";
 
 // ====== Pin Configuration ======
 #define IR1_PIN 13
